@@ -74,4 +74,23 @@ body {
     min-height: 110vh;
     background-color: #4ca1af;
     background-image: linear-gradient(135deg, #4ca1af 0%, #c4e0e5 100%);
+
+}
+h1{
+
+ color: #F0EBCC;
+
+
+}
+.navbar a.nav-link:hover {
+  font-size: 1.1rem;
+  text-decoration-style: solid;
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+.roni{
+  color: red;
+}
+#nahi{
+  color: #F0EBCC;
 }
